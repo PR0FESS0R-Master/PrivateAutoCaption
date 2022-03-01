@@ -26,12 +26,19 @@
         },
         "BUTTON": {
             "description": "Button Name",
-            "required": false
+            "requi
+
+        "BUTTON": {
+
+            "description": "Button Name",
+
+            "required": falsered": false
         },
+
         "CAPTION": {
             "description": "Caption Text",
             "required": false
-        },
+}
         "LINK": {
             "description": " Group Or Chanenl) Public Link Link",
             "value": "t.me/mo_tech_yt"
