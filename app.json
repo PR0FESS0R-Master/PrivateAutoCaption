@@ -26,14 +26,12 @@
         },
         "BUTTON": {
             "description": "Button Name",
-            "requi
+            "required"
 
-        "BUTTON": {
+        
+",
 
-            "description": "Button Name",
-
-            "required": falsered": false
-        },
+},
 
         "CAPTION": {
             "description": "Caption Text",
